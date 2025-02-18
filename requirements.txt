@@ -6,3 +6,4 @@ pypng
 cryptography
 opencv-python
 wave
+pycryptodome
