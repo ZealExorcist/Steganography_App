@@ -1,0 +1,8 @@
+streamlit
+Pillow
+numpy
+pyqrcode
+pypng
+cryptography
+opencv-python
+wave
