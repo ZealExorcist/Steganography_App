@@ -48,5 +48,5 @@ Feel free to contribute by submitting pull requests. For major changes, please o
 This project is licensed under the **MIT License**.
 
 ---
-🚀 **Developed by [Your Name]** | Happy Steganography! 🔐
+🚀 **Developed by Rohan Nayakanti** | Happy Steganography! 🔐
 
