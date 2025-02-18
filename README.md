@@ -33,7 +33,7 @@ streamlit run app.py
 5. **Upload an encoded image**, and the app will reveal the hidden message.
 
 ## Live Demo 🌐
-Check out the hosted example on **Streamlit Cloud**: [Steganography App](https://your-streamlit-app-url.com)
+Check out the hosted example on **Streamlit Cloud**: [Steganography App](https://steganographyapp.streamlit.app)
 
 ## Future Enhancements 🔮
 - 🎥 **Support for Video Steganography**
